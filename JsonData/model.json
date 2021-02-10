@@ -1,0 +1,1392 @@
+[
+  {
+    "id": 1,
+    "modelAd": "Giulia",
+    "markaID": 1
+  },
+  {
+    "id": 2,
+    "modelAd": "Giulietta",
+    "markaID": 1
+  },
+  {
+    "id": 3,
+    "modelAd": "145",
+    "markaID": 1
+  },
+  {
+    "id": 4,
+    "modelAd": "147",
+    "markaID": 1
+  },
+  {
+    "id": 5,
+    "modelAd": "155",
+    "markaID": 1
+  },
+  {
+    "id": 6,
+    "modelAd": "156",
+    "markaID": 1
+  },
+  {
+    "id": 7,
+    "modelAd": "159",
+    "markaID": 1
+  },
+  {
+    "id": 8,
+    "modelAd": "164",
+    "markaID": 1
+  },
+  {
+    "id": 9,
+    "modelAd": "166",
+    "markaID": 1
+  },
+  {
+    "id": 10,
+    "modelAd": "33",
+    "markaID": 1
+  },
+  {
+    "id": 11,
+    "modelAd": "4C",
+    "markaID": 1
+  },
+  {
+    "id": 12,
+    "modelAd": "Brera",
+    "markaID": 1
+  },
+  {
+    "id": 13,
+    "modelAd": "GT",
+    "markaID": 1
+  },
+  {
+    "id": 14,
+    "modelAd": "GTV",
+    "markaID": 1
+  },
+  {
+    "id": 15,
+    "modelAd": "MiTo",
+    "markaID": 1
+  },
+  {
+    "id": 16,
+    "modelAd": "Spider",
+    "markaID": 1
+  },
+  {
+    "id": 17,
+    "modelAd": "A1",
+    "markaID": 2
+  },
+  {
+    "id": 18,
+    "modelAd": "A3",
+    "markaID": 2
+  },
+  {
+    "id": 19,
+    "modelAd": "A4",
+    "markaID": 2
+  },
+  {
+    "id": 20,
+    "modelAd": "A5",
+    "markaID": 2
+  },
+  {
+    "id": 21,
+    "modelAd": "A6",
+    "markaID": 2
+  },
+  {
+    "id": 22,
+    "modelAd": "A7",
+    "markaID": 2
+  },
+  {
+    "id": 23,
+    "modelAd": "A8",
+    "markaID": 2
+  },
+  {
+    "id": 24,
+    "modelAd": "R8",
+    "markaID": 2
+  },
+  {
+    "id": 25,
+    "modelAd": "RS",
+    "markaID": 2
+  },
+  {
+    "id": 26,
+    "modelAd": "TT",
+    "markaID": 2
+  },
+  {
+    "id": 27,
+    "modelAd": "1 Serisi",
+    "markaID": 3
+  },
+  {
+    "id": 28,
+    "modelAd": "2 Serisi",
+    "markaID": 3
+  },
+  {
+    "id": 29,
+    "modelAd": "3 Serisi",
+    "markaID": 3
+  },
+  {
+    "id": 30,
+    "modelAd": "4 Serisi",
+    "markaID": 3
+  },
+  {
+    "id": 31,
+    "modelAd": "5 Serisi",
+    "markaID": 3
+  },
+  {
+    "id": 32,
+    "modelAd": "6 Serisi",
+    "markaID": 3
+  },
+  {
+    "id": 33,
+    "modelAd": "7 Serisi",
+    "markaID": 3
+  },
+  {
+    "id": 34,
+    "modelAd": "8 Serisi",
+    "markaID": 3
+  },
+  {
+    "id": 35,
+    "modelAd": "i Serisi",
+    "markaID": 3
+  },
+  {
+    "id": 36,
+    "modelAd": "M Serisi",
+    "markaID": 3
+  },
+  {
+    "id": 37,
+    "modelAd": "Z Serisi",
+    "markaID": 3
+  },
+  {
+    "id": 38,
+    "modelAd": "Aveo",
+    "markaID": 4
+  },
+  {
+    "id": 39,
+    "modelAd": "Camaro",
+    "markaID": 4
+  },
+  {
+    "id": 40,
+    "modelAd": "Caprise",
+    "markaID": 4
+  },
+  {
+    "id": 41,
+    "modelAd": "Cavalier",
+    "markaID": 4
+  },
+  {
+    "id": 42,
+    "modelAd": "Corvette",
+    "markaID": 4
+  },
+  {
+    "id": 43,
+    "modelAd": "Cruze",
+    "markaID": 4
+  },
+  {
+    "id": 44,
+    "modelAd": "Epica",
+    "markaID": 4
+  },
+  {
+    "id": 45,
+    "modelAd": "Evenda",
+    "markaID": 4
+  },
+  {
+    "id": 46,
+    "modelAd": "Geo Storm",
+    "markaID": 4
+  },
+  {
+    "id": 47,
+    "modelAd": "Impala",
+    "markaID": 4
+  },
+  {
+    "id": 48,
+    "modelAd": "Kalos",
+    "markaID": 4
+  },
+  {
+    "id": 49,
+    "modelAd": "Lacetti",
+    "markaID": 4
+  },
+  {
+    "id": 50,
+    "modelAd": "Malibu",
+    "markaID": 4
+  },
+  {
+    "id": 51,
+    "modelAd": "Metro",
+    "markaID": 4
+  },
+  {
+    "id": 52,
+    "modelAd": "Monte Carlo",
+    "markaID": 4
+  },
+  {
+    "id": 53,
+    "modelAd": "Rezzo",
+    "markaID": 4
+  },
+  {
+    "id": 54,
+    "modelAd": "Spark",
+    "markaID": 4
+  },
+  {
+    "id": 55,
+    "modelAd": "C1",
+    "markaID": 5
+  },
+  {
+    "id": 56,
+    "modelAd": "C2",
+    "markaID": 5
+  },
+  {
+    "id": 57,
+    "modelAd": "C3",
+    "markaID": 5
+  },
+  {
+    "id": 58,
+    "modelAd": "C4",
+    "markaID": 5
+  },
+  {
+    "id": 59,
+    "modelAd": "C5",
+    "markaID": 5
+  },
+  {
+    "id": 60,
+    "modelAd": "C6",
+    "markaID": 5
+  },
+  {
+    "id": 61,
+    "modelAd": "C8",
+    "markaID": 5
+  },
+  {
+    "id": 62,
+    "modelAd": "C-Elysee",
+    "markaID": 5
+  },
+  {
+    "id": 63,
+    "modelAd": "Saxo",
+    "markaID": 5
+  },
+  {
+    "id": 64,
+    "modelAd": "Xsara",
+    "markaID": 5
+  },
+  {
+    "id": 65,
+    "modelAd": "AX",
+    "markaID": 5
+  },
+  {
+    "id": 66,
+    "modelAd": "BX",
+    "markaID": 5
+  },
+  {
+    "id": 67,
+    "modelAd": "Evasion",
+    "markaID": 5
+  },
+  {
+    "id": 68,
+    "modelAd": "Xantia",
+    "markaID": 5
+  },
+  {
+    "id": 69,
+    "modelAd": "XM",
+    "markaID": 5
+  },
+  {
+    "id": 70,
+    "modelAd": "ZX",
+    "markaID": 5
+  },
+  {
+    "id": 71,
+    "modelAd": "Lodgy",
+    "markaID": 6
+  },
+  {
+    "id": 72,
+    "modelAd": "Logan",
+    "markaID": 6
+  },
+  {
+    "id": 73,
+    "modelAd": "Sandero",
+    "markaID": 6
+  },
+  {
+    "id": 74,
+    "modelAd": "Nova",
+    "markaID": 6
+  },
+  {
+    "id": 75,
+    "modelAd": "Solenza",
+    "markaID": 6
+  },
+  {
+    "id": 76,
+    "modelAd": "124 Spider",
+    "markaID": 7
+  },
+  {
+    "id": 77,
+    "modelAd": "126 Bis",
+    "markaID": 7
+  },
+  {
+    "id": 78,
+    "modelAd": "500",
+    "markaID": 7
+  },
+  {
+    "id": 79,
+    "modelAd": "Albea",
+    "markaID": 7
+  },
+  {
+    "id": 80,
+    "modelAd": "Brava",
+    "markaID": 7
+  },
+  {
+    "id": 81,
+    "modelAd": "Bravo",
+    "markaID": 7
+  },
+  {
+    "id": 82,
+    "modelAd": "Coupe",
+    "markaID": 7
+  },
+  {
+    "id": 83,
+    "modelAd": "Croma",
+    "markaID": 7
+  },
+  {
+    "id": 84,
+    "modelAd": "Egea",
+    "markaID": 7
+  },
+  {
+    "id": 85,
+    "modelAd": "Idea",
+    "markaID": 7
+  },
+  {
+    "id": 86,
+    "modelAd": "Linea",
+    "markaID": 7
+  },
+  {
+    "id": 87,
+    "modelAd": "Palio",
+    "markaID": 7
+  },
+  {
+    "id": 88,
+    "modelAd": "Panda",
+    "markaID": 7
+  },
+  {
+    "id": 89,
+    "modelAd": "Punto",
+    "markaID": 7
+  },
+  {
+    "id": 90,
+    "modelAd": "Siena",
+    "markaID": 7
+  },
+  {
+    "id": 91,
+    "modelAd": "Tempra",
+    "markaID": 7
+  },
+  {
+    "id": 92,
+    "modelAd": "Tipo",
+    "markaID": 7
+  },
+  {
+    "id": 93,
+    "modelAd": "Uno",
+    "markaID": 7
+  },
+  {
+    "id": 94,
+    "modelAd": "B-Max",
+    "markaID": 8
+  },
+  {
+    "id": 95,
+    "modelAd": "C-Max",
+    "markaID": 8
+  },
+  {
+    "id": 96,
+    "modelAd": "Escort",
+    "markaID": 8
+  },
+  {
+    "id": 97,
+    "modelAd": "Fiesta",
+    "markaID": 8
+  },
+  {
+    "id": 98,
+    "modelAd": "Focus",
+    "markaID": 8
+  },
+  {
+    "id": 99,
+    "modelAd": "Fusion",
+    "markaID": 8
+  },
+  {
+    "id": 100,
+    "modelAd": "Galaxy",
+    "markaID": 8
+  },
+  {
+    "id": 101,
+    "modelAd": "Grand C-Max",
+    "markaID": 8
+  },
+  {
+    "id": 102,
+    "modelAd": "Ka",
+    "markaID": 8
+  },
+  {
+    "id": 103,
+    "modelAd": "Mondeo",
+    "markaID": 8
+  },
+  {
+    "id": 104,
+    "modelAd": "Mustang",
+    "markaID": 8
+  },
+  {
+    "id": 105,
+    "modelAd": "S-Max",
+    "markaID": 8
+  },
+  {
+    "id": 106,
+    "modelAd": "Taurus",
+    "markaID": 8
+  },
+  {
+    "id": 107,
+    "modelAd": "Festiva",
+    "markaID": 8
+  },
+  {
+    "id": 108,
+    "modelAd": "Granada",
+    "markaID": 8
+  },
+  {
+    "id": 109,
+    "modelAd": "Sierra",
+    "markaID": 8
+  },
+  {
+    "id": 110,
+    "modelAd": "Taunus",
+    "markaID": 8
+  },
+  {
+    "id": 111,
+    "modelAd": "Accord",
+    "markaID": 9
+  },
+  {
+    "id": 112,
+    "modelAd": "City",
+    "markaID": 9
+  },
+  {
+    "id": 113,
+    "modelAd": "CRX",
+    "markaID": 9
+  },
+  {
+    "id": 114,
+    "modelAd": "CR-Z",
+    "markaID": 9
+  },
+  {
+    "id": 115,
+    "modelAd": "E",
+    "markaID": 9
+  },
+  {
+    "id": 116,
+    "modelAd": "Integra",
+    "markaID": 9
+  },
+  {
+    "id": 117,
+    "modelAd": "Jazz",
+    "markaID": 9
+  },
+  {
+    "id": 118,
+    "modelAd": "Legend",
+    "markaID": 9
+  },
+  {
+    "id": 119,
+    "modelAd": "NSX",
+    "markaID": 9
+  },
+  {
+    "id": 120,
+    "modelAd": "Prelude",
+    "markaID": 9
+  },
+  {
+    "id": 121,
+    "modelAd": "S2000",
+    "markaID": 9
+  },
+  {
+    "id": 122,
+    "modelAd": "Accord",
+    "markaID": 9
+  },
+  {
+    "id": 123,
+    "modelAd": "Shuttle",
+    "markaID": 9
+  },
+  {
+    "id": 124,
+    "modelAd": "Stream",
+    "markaID": 9
+  },
+  {
+    "id": 125,
+    "modelAd": "Accent",
+    "markaID": 10
+  },
+  {
+    "id": 126,
+    "modelAd": "Accent Blue",
+    "markaID": 10
+  },
+  {
+    "id": 127,
+    "modelAd": "Accent Era",
+    "markaID": 10
+  },
+  {
+    "id": 128,
+    "modelAd": "Atos",
+    "markaID": 10
+  },
+  {
+    "id": 129,
+    "modelAd": "Avante",
+    "markaID": 10
+  },
+  {
+    "id": 130,
+    "modelAd": "Coupe",
+    "markaID": 10
+  },
+  {
+    "id": 131,
+    "modelAd": "Elantra",
+    "markaID": 10
+  },
+  {
+    "id": 132,
+    "modelAd": "Getz",
+    "markaID": 10
+  },
+  {
+    "id": 133,
+    "modelAd": "i10",
+    "markaID": 10
+  },
+  {
+    "id": 134,
+    "modelAd": "i20",
+    "markaID": 10
+  },
+  {
+    "id": 135,
+    "modelAd": "i20 Active",
+    "markaID": 10
+  },
+  {
+    "id": 136,
+    "modelAd": "i20 Troy",
+    "markaID": 10
+  },
+  {
+    "id": 137,
+    "modelAd": "i30",
+    "markaID": 10
+  },
+  {
+    "id": 138,
+    "modelAd": "i40",
+    "markaID": 10
+  },
+  {
+    "id": 139,
+    "modelAd": "iX20",
+    "markaID": 10
+  },
+  {
+    "id": 140,
+    "modelAd": "Matrix",
+    "markaID": 10
+  },
+  {
+    "id": 141,
+    "modelAd": "S-Coupe",
+    "markaID": 10
+  },
+  {
+    "id": 142,
+    "modelAd": "Sonata",
+    "markaID": 10
+  },
+  {
+    "id": 143,
+    "modelAd": "Trajet",
+    "markaID": 10
+  },
+  {
+    "id": 144,
+    "modelAd": "Capital",
+    "markaID": 11
+  },
+  {
+    "id": 145,
+    "modelAd": "Carens",
+    "markaID": 11
+  },
+  {
+    "id": 146,
+    "modelAd": "Carnival",
+    "markaID": 11
+  },
+  {
+    "id": 147,
+    "modelAd": "Ceed",
+    "markaID": 11
+  },
+  {
+    "id": 148,
+    "modelAd": "Picanto",
+    "markaID": 11
+  },
+  {
+    "id": 149,
+    "modelAd": "Pro Ceed",
+    "markaID": 11
+  },
+  {
+    "id": 150,
+    "modelAd": "Rio",
+    "markaID": 11
+  },
+  {
+    "id": 162,
+    "modelAd": "2",
+    "markaID": 12
+  },
+  {
+    "id": 163,
+    "modelAd": "3",
+    "markaID": 12
+  },
+  {
+    "id": 164,
+    "modelAd": "5",
+    "markaID": 12
+  },
+  {
+    "id": 165,
+    "modelAd": "6",
+    "markaID": 12
+  },
+  {
+    "id": 166,
+    "modelAd": "MPV",
+    "markaID": 12
+  },
+  {
+    "id": 167,
+    "modelAd": "MX",
+    "markaID": 12
+  },
+  {
+    "id": 168,
+    "modelAd": "Premacy",
+    "markaID": 12
+  },
+  {
+    "id": 169,
+    "modelAd": "121",
+    "markaID": 12
+  },
+  {
+    "id": 170,
+    "modelAd": "323",
+    "markaID": 12
+  },
+  {
+    "id": 171,
+    "modelAd": "626",
+    "markaID": 12
+  },
+  {
+    "id": 172,
+    "modelAd": "RX",
+    "markaID": 12
+  },
+  {
+    "id": 173,
+    "modelAd": "AMG GT",
+    "markaID": 13
+  },
+  {
+    "id": 174,
+    "modelAd": "A Serisi",
+    "markaID": 13
+  },
+  {
+    "id": 175,
+    "modelAd": "B Serisi",
+    "markaID": 13
+  },
+  {
+    "id": 176,
+    "modelAd": "CL",
+    "markaID": 13
+  },
+  {
+    "id": 177,
+    "modelAd": "CLA",
+    "markaID": 13
+  },
+  {
+    "id": 178,
+    "modelAd": "CLC",
+    "markaID": 13
+  },
+  {
+    "id": 179,
+    "modelAd": "CLK",
+    "markaID": 13
+  },
+  {
+    "id": 180,
+    "modelAd": "CLS",
+    "markaID": 13
+  },
+  {
+    "id": 181,
+    "modelAd": "C Serisi",
+    "markaID": 13
+  },
+  {
+    "id": 182,
+    "modelAd": "E Serisi",
+    "markaID": 13
+  },
+  {
+    "id": 183,
+    "modelAd": "Maybach S",
+    "markaID": 13
+  },
+  {
+    "id": 184,
+    "modelAd": "R Serisi",
+    "markaID": 13
+  },
+  {
+    "id": 185,
+    "modelAd": "SL",
+    "markaID": 13
+  },
+  {
+    "id": 186,
+    "modelAd": "SLC",
+    "markaID": 13
+  },
+  {
+    "id": 187,
+    "modelAd": "SLK",
+    "markaID": 13
+  },
+  {
+    "id": 188,
+    "modelAd": "S Serisi",
+    "markaID": 13
+  },
+  {
+    "id": 189,
+    "modelAd": "190",
+    "markaID": 13
+  },
+  {
+    "id": 190,
+    "modelAd": "200",
+    "markaID": 13
+  },
+  {
+    "id": 191,
+    "modelAd": "220",
+    "markaID": 13
+  },
+  {
+    "id": 192,
+    "modelAd": "230",
+    "markaID": 13
+  },
+  {
+    "id": 193,
+    "modelAd": "240",
+    "markaID": 13
+  },
+  {
+    "id": 194,
+    "modelAd": "250",
+    "markaID": 13
+  },
+  {
+    "id": 195,
+    "modelAd": "260",
+    "markaID": 13
+  },
+  {
+    "id": 196,
+    "modelAd": "280",
+    "markaID": 13
+  },
+  {
+    "id": 197,
+    "modelAd": "300",
+    "markaID": 13
+  },
+  {
+    "id": 198,
+    "modelAd": "380",
+    "markaID": 13
+  },
+  {
+    "id": 199,
+    "modelAd": "420",
+    "markaID": 13
+  },
+  {
+    "id": 200,
+    "modelAd": "500",
+    "markaID": 13
+  },
+  {
+    "id": 201,
+    "modelAd": "560",
+    "markaID": 13
+  },
+  {
+    "id": 202,
+    "modelAd": "600",
+    "markaID": 13
+  },
+  {
+    "id": 203,
+    "modelAd": "Cooper",
+    "markaID": 14
+  },
+  {
+    "id": 204,
+    "modelAd": "Cooper Clubman",
+    "markaID": 14
+  },
+  {
+    "id": 205,
+    "modelAd": "Cooper Electric",
+    "markaID": 14
+  },
+  {
+    "id": 206,
+    "modelAd": "John Cooper",
+    "markaID": 14
+  },
+  {
+    "id": 207,
+    "modelAd": "One",
+    "markaID": 14
+  },
+  {
+    "id": 208,
+    "modelAd": "Cooper S",
+    "markaID": 14
+  },
+  {
+    "id": 209,
+    "modelAd": "Colt",
+    "markaID": 15
+  },
+  {
+    "id": 210,
+    "modelAd": "Lancer",
+    "markaID": 15
+  },
+  {
+    "id": 211,
+    "modelAd": "Lancer Evolution",
+    "markaID": 15
+  },
+  {
+    "id": 212,
+    "modelAd": "Carisma",
+    "markaID": 15
+  },
+  {
+    "id": 213,
+    "modelAd": "Almera",
+    "markaID": 16
+  },
+  {
+    "id": 214,
+    "modelAd": "GT-R",
+    "markaID": 16
+  },
+  {
+    "id": 215,
+    "modelAd": "Micra",
+    "markaID": 16
+  },
+  {
+    "id": 216,
+    "modelAd": "Note",
+    "markaID": 16
+  },
+  {
+    "id": 217,
+    "modelAd": "Primera",
+    "markaID": 16
+  },
+  {
+    "id": 218,
+    "modelAd": "Astra",
+    "markaID": 17
+  },
+  {
+    "id": 219,
+    "modelAd": "Corsa",
+    "markaID": 17
+  },
+  {
+    "id": 220,
+    "modelAd": "Insignia",
+    "markaID": 17
+  },
+  {
+    "id": 221,
+    "modelAd": "Vectra",
+    "markaID": 17
+  },
+  {
+    "id": 222,
+    "modelAd": "106",
+    "markaID": 18
+  },
+  {
+    "id": 223,
+    "modelAd": "107",
+    "markaID": 18
+  },
+  {
+    "id": 224,
+    "modelAd": "206",
+    "markaID": 18
+  },
+  {
+    "id": 225,
+    "modelAd": "206 +",
+    "markaID": 18
+  },
+  {
+    "id": 226,
+    "modelAd": "207",
+    "markaID": 18
+  },
+  {
+    "id": 227,
+    "modelAd": "208",
+    "markaID": 18
+  },
+  {
+    "id": 228,
+    "modelAd": "301",
+    "markaID": 18
+  },
+  {
+    "id": 229,
+    "modelAd": "306",
+    "markaID": 18
+  },
+  {
+    "id": 230,
+    "modelAd": "307",
+    "markaID": 18
+  },
+  {
+    "id": 231,
+    "modelAd": "308",
+    "markaID": 18
+  },
+  {
+    "id": 232,
+    "modelAd": "406",
+    "markaID": 18
+  },
+  {
+    "id": 233,
+    "modelAd": "407",
+    "markaID": 18
+  },
+  {
+    "id": 234,
+    "modelAd": "508",
+    "markaID": 18
+  },
+  {
+    "id": 235,
+    "modelAd": "RCZ",
+    "markaID": 18
+  },
+  {
+    "id": 252,
+    "modelAd": "Clio",
+    "markaID": 19
+  },
+  {
+    "id": 253,
+    "modelAd": "Fluence",
+    "markaID": 19
+  },
+  {
+    "id": 254,
+    "modelAd": "Laguna",
+    "markaID": 19
+  },
+  {
+    "id": 255,
+    "modelAd": "Latitude",
+    "markaID": 19
+  },
+  {
+    "id": 256,
+    "modelAd": "Megane",
+    "markaID": 19
+  },
+  {
+    "id": 257,
+    "modelAd": "Scenic",
+    "markaID": 19
+  },
+  {
+    "id": 258,
+    "modelAd": "Symbol",
+    "markaID": 19
+  },
+  {
+    "id": 259,
+    "modelAd": "Talisman",
+    "markaID": 19
+  },
+  {
+    "id": 260,
+    "modelAd": "ZOE",
+    "markaID": 19
+  },
+  {
+    "id": 261,
+    "modelAd": "R 5",
+    "markaID": 19
+  },
+  {
+    "id": 262,
+    "modelAd": "R 9",
+    "markaID": 19
+  },
+  {
+    "id": 263,
+    "modelAd": "R 11",
+    "markaID": 19
+  },
+  {
+    "id": 264,
+    "modelAd": "R 12",
+    "markaID": 19
+  },
+  {
+    "id": 265,
+    "modelAd": "R 19",
+    "markaID": 19
+  },
+  {
+    "id": 266,
+    "modelAd": "R 21",
+    "markaID": 19
+  },
+  {
+    "id": 267,
+    "modelAd": "R 25",
+    "markaID": 19
+  },
+  {
+    "id": 268,
+    "modelAd": "Altea",
+    "markaID": 20
+  },
+  {
+    "id": 269,
+    "modelAd": "Cordoba",
+    "markaID": 20
+  },
+  {
+    "id": 270,
+    "modelAd": "Ibiza",
+    "markaID": 20
+  },
+  {
+    "id": 271,
+    "modelAd": "Leon",
+    "markaID": 20
+  },
+  {
+    "id": 272,
+    "modelAd": "Toledo",
+    "markaID": 20
+  },
+  {
+    "id": 273,
+    "modelAd": "Fabia",
+    "markaID": 21
+  },
+  {
+    "id": 274,
+    "modelAd": "Octavia",
+    "markaID": 21
+  },
+  {
+    "id": 275,
+    "modelAd": "Rapid",
+    "markaID": 21
+  },
+  {
+    "id": 276,
+    "modelAd": "Superb",
+    "markaID": 21
+  },
+  {
+    "id": 277,
+    "modelAd": "Scala",
+    "markaID": 21
+  },
+  {
+    "id": 278,
+    "modelAd": "Felicia",
+    "markaID": 21
+  },
+  {
+    "id": 279,
+    "modelAd": "Model 3",
+    "markaID": 22
+  },
+  {
+    "id": 280,
+    "modelAd": "Model S",
+    "markaID": 22
+  },
+  {
+    "id": 281,
+    "modelAd": "Model X",
+    "markaID": 22
+  },
+  {
+    "id": 282,
+    "modelAd": "Auris",
+    "markaID": 23
+  },
+  {
+    "id": 283,
+    "modelAd": "Avensis",
+    "markaID": 23
+  },
+  {
+    "id": 284,
+    "modelAd": "Corolla",
+    "markaID": 23
+  },
+  {
+    "id": 285,
+    "modelAd": "Yaris",
+    "markaID": 23
+  },
+  {
+    "id": 286,
+    "modelAd": "Arteon",
+    "markaID": 24
+  },
+  {
+    "id": 287,
+    "modelAd": "Beetle",
+    "markaID": 24
+  },
+  {
+    "id": 288,
+    "modelAd": "Bora",
+    "markaID": 24
+  },
+  {
+    "id": 289,
+    "modelAd": "Golf",
+    "markaID": 24
+  },
+  {
+    "id": 290,
+    "modelAd": "Jetta",
+    "markaID": 24
+  },
+  {
+    "id": 291,
+    "modelAd": "Passat",
+    "markaID": 24
+  },
+  {
+    "id": 292,
+    "modelAd": "Passat Variant",
+    "markaID": 24
+  },
+  {
+    "id": 293,
+    "modelAd": "Polo",
+    "markaID": 24
+  },
+  {
+    "id": 294,
+    "modelAd": "Scirocco",
+    "markaID": 24
+  },
+  {
+    "id": 295,
+    "modelAd": "VW CC",
+    "markaID": 24
+  },
+  {
+    "id": 296,
+    "modelAd": "C30",
+    "markaID": 25
+  },
+  {
+    "id": 297,
+    "modelAd": "C70",
+    "markaID": 25
+  },
+  {
+    "id": 298,
+    "modelAd": "S40",
+    "markaID": 25
+  },
+  {
+    "id": 299,
+    "modelAd": "S60",
+    "markaID": 25
+  },
+  {
+    "id": 300,
+    "modelAd": "S70",
+    "markaID": 25
+  },
+  {
+    "id": 301,
+    "modelAd": "S80",
+    "markaID": 25
+  },
+  {
+    "id": 302,
+    "modelAd": "S90",
+    "markaID": 25
+  },
+  {
+    "id": 303,
+    "modelAd": "V40",
+    "markaID": 25
+  },
+  {
+    "id": 304,
+    "modelAd": "V50",
+    "markaID": 25
+  },
+  {
+    "id": 305,
+    "modelAd": "V60",
+    "markaID": 25
+  }
+]

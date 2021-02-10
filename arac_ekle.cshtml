@@ -1,0 +1,65 @@
+@{
+    Layout = "_Dashboard";
+    ViewBag.Title = "Araç Ekle";
+}
+
+@using rentid.Models.CarModel
+@model List<marka>
+
+<div id="arac_ekle" class="p-3">
+    <h3>Araç Ekleme Formu</h3>
+    <small>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Harum tenetur cupiditate obcaecati dolorem repellendus architecto itaque dolore consequatur nulla? Consequuntur facilis nemo iusto fuga culpa nesciunt amet dicta veniam rem!</small>
+    <div class="col-lg-6 float-left">
+        <form class="form-group">
+
+            <select class="form-control form-control-sm mt-3" id="marka">
+                
+            </select>
+            
+            <select class="form-control form-control-sm mt-3" id="model">
+                
+            </select>
+        </form>
+    </div>
+</div>
+
+<script>
+    let dropMarka = $("#marka");
+
+    dropMarka.empty();
+    dropMarka.append('<option selected="true" disabled> --- Marka Seçin --- </option>');
+    dropMarka.prop('selectedIndex', 0);
+
+    dropModel = $("#model");
+    dropModel.append('<option selected="true" disabled> --- Model Seçin --- </option>');
+    
+
+    const url = 'https://localhost:5001/getmarkajson';
+
+    $.getJSON(url, function (data) {
+        $.each(data, function (key, data) {
+            dropMarka.append($('<option></option>').attr('value', data.id).text(data.markaAd));
+        })
+    });
+
+    $("#marka").change(function(){
+        
+        $.ajax({
+                url: '/getmodeljson/id',
+                method: 'post',
+                data: { id: $(this).val() },
+                dataType: 'json',
+                success: function (data) {
+                    dropModel.empty();
+                    dropModel.append('<option selected="true" disabled> --- Model Seçin --- </option>');
+                    dropModel.prop('disabled', false);
+                    $(data).each(function (index, data) {
+                        dropModel.append($('<option></option>').attr('value', data.id).text(data.modelAd));
+                    })
+
+                }
+            });
+        
+    });
+
+</script>

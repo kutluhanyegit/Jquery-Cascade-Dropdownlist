@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "markaAd": "Alfa Romeo"
+  },
+  {
+    "id": 2,
+    "markaAd": "Audi"
+  },
+  {
+    "id": 3,
+    "markaAd": "BMW"
+  },
+  {
+    "id": 4,
+    "markaAd": "Chevrolet"
+  },
+  {
+    "id": 5,
+    "markaAd": "Citroen"
+  },
+  {
+    "id": 6,
+    "markaAd": "Dacia"
+  },
+  {
+    "id": 7,
+    "markaAd": "Fiat"
+  },
+  {
+    "id": 8,
+    "markaAd": "Ford"
+  },
+  {
+    "id": 9,
+    "markaAd": "Honda"
+  },
+  {
+    "id": 10,
+    "markaAd": "Hyundai"
+  },
+  {
+    "id": 11,
+    "markaAd": "Kia"
+  },
+  {
+    "id": 12,
+    "markaAd": "Mazda"
+  },
+  {
+    "id": 13,
+    "markaAd": "Mercedes - Benz"
+  },
+  {
+    "id": 14,
+    "markaAd": "Mini"
+  },
+  {
+    "id": 15,
+    "markaAd": "Mitsubishi"
+  },
+  {
+    "id": 16,
+    "markaAd": "Nissan"
+  },
+  {
+    "id": 17,
+    "markaAd": "Opel"
+  },
+  {
+    "id": 18,
+    "markaAd": "Peugeot"
+  },
+  {
+    "id": 19,
+    "markaAd": "Renault"
+  },
+  {
+    "id": 20,
+    "markaAd": "Seat"
+  },
+  {
+    "id": 21,
+    "markaAd": "Skoda"
+  },
+  {
+    "id": 22,
+    "markaAd": "Tesla"
+  },
+  {
+    "id": 23,
+    "markaAd": "Toyota"
+  },
+  {
+    "id": 24,
+    "markaAd": "Volkswagen"
+  },
+  {
+    "id": 25,
+    "markaAd": "Volvo"
+  }
+]
